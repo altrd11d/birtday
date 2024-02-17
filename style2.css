@@ -1,0 +1,30 @@
+.@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+* {
+    transition: all 0.2s ease-in-out;
+}
+
+body {
+    background: #6c63ff;
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: "open sans", sans-serif;
+    color: #fff;
+}
+
+.video {
+ background-color: black;
+ background: #fdfdfd;
+ border-radius: 4px;
+ height: 85vh;
+ width: 80vw;
+ box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+ text-align: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+ padding: 1em;
+ overflow: hidden;
+}
