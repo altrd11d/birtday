@@ -1,8 +1,6 @@
 <Html>
 <head>
     <meta charset="UTF-8">
-    <title>VIDEO
-    </title>
     <link rel="stylesheet" href="style2.css">
 </head>
 <body>
