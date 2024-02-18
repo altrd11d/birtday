@@ -1,6 +1,9 @@
 <HTml>
 <head>
     <meta charset="UTF-8">
+    <title>
+        hbd
+    </title>
     <link rel="stylesheet" href="style2.css">
 </head>
 <body>
