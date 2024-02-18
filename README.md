@@ -42,7 +42,7 @@
             </p>
         </div>
         <div class="container">
-            <a href="NEXTTOVIDEO.html"><b>NEXT</b></a>
+            <a href="NEXTTOVIDEO.md"><b>NEXT</b></a>
         <div class="space"></div>
         <audio controls autoplay>
             <source src="Lirik Di Tempat yang Jauh pun (Tooku Ni Itemo) - JKT48.mp3" type="audio/mp3"> your browser does not support the audio element.
