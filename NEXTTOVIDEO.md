@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="video">
-    <video  width="800" height="800" center controls>
+    <video  width="500" height="500" center controls>
         <source src="0fac4bb1-d74a-4f79-9fb4-29c201234cfd.MP4">
     </video>  
     </div>
